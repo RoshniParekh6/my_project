@@ -1,0 +1,1 @@
+# to ignore all files names end with tilde(~)*~# to ignore any file ending in .o or .a*.[oa]# to ignore log files*.log# to ignore class files*.class# to ignore this file itself*.gitignore
